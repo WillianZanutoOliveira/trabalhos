@@ -1,22 +1,19 @@
-Brandi HTML5 Bootstraped Business Template
-========
+# Legacy front-end study — 2015
 
-<img src ="https://cloud.githubusercontent.com/assets/10640964/5989549/0f93dfc8-a9b6-11e4-8f1e-75189f6a5759.jpg" />
+> **Historical repository.** This project is kept only as part of my early learning journey and **does not represent my current engineering practices or technology stack**.
 
-<a href="http://themefisher.com/download/brandi-corporate-template/> Live Preview </a>
+This repository contains experiments based on the **Brandi HTML5/Bootstrap template by Themefisher**. The original template and credits belong to their respective authors.
 
-=========
+My current work is focused on **C#/.NET, ASP.NET Core, APIs, software architecture, integrations, cloud and modernization of systems**.
 
-Brandi is a corporate template that is perfect for individuals or businesses. This theme comes with crisp animation and is responsive meaning it looks great on all devices.These demo is just a example … you can make your own color schemes to further customize your template.
+For an up-to-date view of my work, see my GitHub profile:
 
-Key Feature
+- https://github.com/WillianZanutoOliveira
 
-100% Responsive Design
-Bootstrap 3.2 Compatible
-Valid HTML5/CSS3 Markup
-Google Fonts Support
-Clean Code, All files are well commented and organized
-Documentation File Included
-PSD credit: https://dribbble.com/themecurve
+## Original template
 
-A template By <a href="http://www.themefisher.com>Themefisher</a>
+Brandi is a responsive HTML5/Bootstrap corporate template originally distributed by Themefisher.
+
+## Purpose of this repository
+
+The code is preserved as a historical front-end study from the beginning of my career. It should not be interpreted as an original portfolio project or as representative of my current senior-level work.
